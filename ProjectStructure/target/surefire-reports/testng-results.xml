@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2020-06-22T15:16:16 IST" finished-at="2020-06-22T15:16:16 IST">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite B" duration-ms="52" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+    <groups>
+    </groups>
+    <test name="Test B" duration-ms="19" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+      <class name="suiteB.TestB">
+        <test-method status="PASS" signature="init(org.testng.ITestResult)[pri:0, instance:suiteB.TestB@10ab905]" name="init" is-config="true" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestB.testB()[pri:0, instance:suiteB.TestB@10ab905] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testB()[pri:0, instance:suiteB.TestB@10ab905]" name="testB" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="flushreport()[pri:0, instance:suiteB.TestB@10ab905]" name="flushreport" is-config="true" duration-ms="15" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- suiteB.TestB -->
+    </test> <!-- Test B -->
+    <test name="Test BB" duration-ms="21" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+      <class name="suiteB.TestBB">
+        <test-method status="PASS" signature="init(org.testng.ITestResult)[pri:0, instance:suiteB.TestBB@cb644e]" name="init" is-config="true" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestBB.testBB()[pri:0, instance:suiteB.TestBB@cb644e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testBB()[pri:0, instance:suiteB.TestBB@cb644e]" name="testBB" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBB -->
+        <test-method status="PASS" signature="flushreport()[pri:0, instance:suiteB.TestBB@cb644e]" name="flushreport" is-config="true" duration-ms="18" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- suiteB.TestBB -->
+    </test> <!-- Test BB -->
+  </suite> <!-- Suite B -->
+  <suite name="Suite C" duration-ms="49" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:16 IST">
+    <groups>
+    </groups>
+    <test name="Test C" duration-ms="18" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+      <class name="suiteC.TestC">
+        <test-method status="PASS" signature="testC()[pri:0, instance:suiteC.TestC@102b3b1]" name="testC" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method status="PASS" signature="init(org.testng.ITestResult)[pri:0, instance:suiteC.TestC@102b3b1]" name="init" is-config="true" duration-ms="0" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestC.testC()[pri:0, instance:suiteC.TestC@102b3b1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="flushreport()[pri:0, instance:suiteC.TestC@102b3b1]" name="flushreport" is-config="true" duration-ms="15" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- suiteC.TestC -->
+    </test> <!-- Test C -->
+    <test name="Test CC" duration-ms="20" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:16 IST">
+      <class name="suiteC.TestCC">
+        <test-method status="PASS" signature="init(org.testng.ITestResult)[pri:0, instance:suiteC.TestCC@adede5]" name="init" is-config="true" duration-ms="0" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestCC.testCC()[pri:0, instance:suiteC.TestCC@adede5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testCC()[pri:0, instance:suiteC.TestCC@adede5]" name="testCC" duration-ms="0" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCC -->
+        <test-method status="PASS" signature="flushreport()[pri:0, instance:suiteC.TestCC@adede5]" name="flushreport" is-config="true" duration-ms="17" started-at="2020-06-22T15:16:16 IST" finished-at="2020-06-22T15:16:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- suiteC.TestCC -->
+    </test> <!-- Test CC -->
+  </suite> <!-- Suite C -->
+  <suite name="Suite A" duration-ms="1219" started-at="2020-06-22T15:16:14 IST" finished-at="2020-06-22T15:16:15 IST">
+    <groups>
+    </groups>
+    <test name="Test A" duration-ms="1149" started-at="2020-06-22T15:16:14 IST" finished-at="2020-06-22T15:16:15 IST">
+      <class name="suiteA.TestA">
+        <test-method status="PASS" signature="init(org.testng.ITestResult)[pri:0, instance:suiteA.TestA@13b32d7]" name="init" is-config="true" duration-ms="277" started-at="2020-06-22T15:16:14 IST" finished-at="2020-06-22T15:16:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestA.testA()[pri:0, instance:suiteA.TestA@13b32d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testA()[pri:0, instance:suiteA.TestA@13b32d7]" name="testA" duration-ms="19" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="flushreport()[pri:0, instance:suiteA.TestA@13b32d7]" name="flushreport" is-config="true" duration-ms="780" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- suiteA.TestA -->
+    </test> <!-- Test A -->
+    <test name="Test AA" duration-ms="17" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+      <class name="suiteA.TestAA">
+        <test-method status="PASS" signature="init(org.testng.ITestResult)[pri:0, instance:suiteA.TestAA@fd02e5]" name="init" is-config="true" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestAA.testAA()[pri:0, instance:suiteA.TestAA@fd02e5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testAA()[pri:0, instance:suiteA.TestAA@fd02e5]" name="testAA" duration-ms="1" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAA -->
+        <test-method status="PASS" signature="flushreport()[pri:0, instance:suiteA.TestAA@fd02e5]" name="flushreport" is-config="true" duration-ms="14" started-at="2020-06-22T15:16:15 IST" finished-at="2020-06-22T15:16:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushreport -->
+      </class> <!-- suiteA.TestAA -->
+    </test> <!-- Test AA -->
+  </suite> <!-- Suite A -->
+</testng-results>

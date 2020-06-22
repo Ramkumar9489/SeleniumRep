@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite C]" guice-stage="DEVELOPMENT">
+  <test name="Test C(failed)">
+    <classes>
+      <class name="suiteC.TestC">
+        <methods>
+          <include name="init"/>
+          <include name="flushreport"/>
+          <include name="testC"/>
+        </methods>
+      </class> <!-- suiteC.TestC -->
+    </classes>
+  </test> <!-- Test C(failed) -->
+  <test name="Test CC(failed)">
+    <classes>
+      <class name="suiteC.TestCC">
+        <methods>
+          <include name="init"/>
+          <include name="testCC"/>
+          <include name="flushreport"/>
+        </methods>
+      </class> <!-- suiteC.TestCC -->
+    </classes>
+  </test> <!-- Test CC(failed) -->
+</suite> <!-- Failed suite [Suite C] -->

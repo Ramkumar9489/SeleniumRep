@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="3.365" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\Learning\ProjectStructure\target\test-classes;E:\Learning\ProjectStructure\target\classes;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\aventstack\extentreports\4.1.6\extentreports-4.1.6.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\freemarker\freemarker\2.3.29\freemarker-2.3.29.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\mongodb\mongodb-driver\3.12.0\mongodb-driver-3.12.0.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\mongodb\mongodb-driver-core\3.12.0\mongodb-driver-core-3.12.0.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\mongodb\bson\3.12.0\bson-3.12.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Jenkins\jre\bin"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire8298178158588933106\surefirebooter1501528518791720747.jar C:\Windows\Temp\surefire8298178158588933106 2020-06-22T15-16-09_628-jvmRun1 surefire4328611502112785366tmp surefire_07065987064032564908tmp"/>
+    <property name="surefire.test.class.path" value="E:\Learning\ProjectStructure\target\test-classes;E:\Learning\ProjectStructure\target\classes;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\aventstack\extentreports\4.1.6\extentreports-4.1.6.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\freemarker\freemarker\2.3.29\freemarker-2.3.29.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\mongodb\mongodb-driver\3.12.0\mongodb-driver-3.12.0.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\mongodb\mongodb-driver-core\3.12.0\mongodb-driver-core-3.12.0.jar;C:\WINDOWS\system32\config\systemprofile\.m2\repository\org\mongodb\bson\3.12.0\bson-3.12.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files (x86)\Jenkins\jre"/>
+    <property name="basedir" value="E:\Learning\ProjectStructure"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire8298178158588933106\surefirebooter1501528518791720747.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Jenkins\jre\lib\resources.jar;C:\Program Files (x86)\Jenkins\jre\lib\rt.jar;C:\Program Files (x86)\Jenkins\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Jenkins\jre\lib\jsse.jar;C:\Program Files (x86)\Jenkins\jre\lib\jce.jar;C:\Program Files (x86)\Jenkins\jre\lib\charsets.jar;C:\Program Files (x86)\Jenkins\jre\lib\jfr.jar;C:\Program Files (x86)\Jenkins\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
+    <property name="user.name" value="RAMKUMAR$"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Jenkins\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="localRepository" value="C:\WINDOWS\system32\config\systemprofile\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="user.dir" value="E:\Learning\ProjectStructure"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Jenkins\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Software\apache-maven-3.6.3/bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;E:\Software\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.144-b01"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Jenkins\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testA" classname="suiteA.TestA" time="0.016"/>
+  <testcase name="testAA" classname="suiteA.TestAA" time="0"/>
+  <testcase name="testB" classname="suiteB.TestB" time="0"/>
+  <testcase name="testBB" classname="suiteB.TestBB" time="0"/>
+  <testcase name="testC" classname="suiteC.TestC" time="0.001"/>
+  <testcase name="testCC" classname="suiteC.TestCC" time="0.001"/>
+</testsuite>

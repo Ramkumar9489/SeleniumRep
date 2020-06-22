@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite B]" guice-stage="DEVELOPMENT">
+  <test name="Test B(failed)">
+    <classes>
+      <class name="suiteB.TestB">
+        <methods>
+          <include name="init"/>
+          <include name="flushreport"/>
+          <include name="testB"/>
+        </methods>
+      </class> <!-- suiteB.TestB -->
+    </classes>
+  </test> <!-- Test B(failed) -->
+  <test name="Test BB(failed)">
+    <classes>
+      <class name="suiteB.TestBB">
+        <methods>
+          <include name="init"/>
+          <include name="flushreport"/>
+          <include name="testBB"/>
+        </methods>
+      </class> <!-- suiteB.TestBB -->
+    </classes>
+  </test> <!-- Test BB(failed) -->
+</suite> <!-- Failed suite [Suite B] -->

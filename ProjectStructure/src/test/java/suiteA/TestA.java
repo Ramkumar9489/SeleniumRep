@@ -18,6 +18,7 @@ public class TestA extends testBase{
 		test.log(Status.INFO, "Starting A");
 		test.log(Status.INFO, "Endig A");
 		test.log(Status.PASS, "Test Passed");
+		test.log(Status.PASS, "Test Passed");
 	}
 	
 	
